@@ -18,7 +18,7 @@
 #
 
 <div align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/39915562/223152227-09e966cd-0712-4bdb-a9dc-1ee696d6519f.png">
 </div>
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
