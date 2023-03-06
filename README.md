@@ -11,7 +11,7 @@
     <br />
     <a href="https://rating.leonas.dev/">View Demo</a>
     ·
-    <a href="" target="_blank">Solution</a>
+    <a href="https://www.frontendmentor.io/solutions/interactive-rating-component-react-tailwindcss-9BN519AAPJ" target="_blank">Solution</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Links
-- Solution URL: []()
+- Solution URL: [Interactive Rating Component (React + TailwindCSS)](https://www.frontendmentor.io/solutions/interactive-rating-component-react-tailwindcss-9BN519AAPJ)
 - Live Site URL: [https://rating.leonas.dev/](https://rating.leonas.dev/)
 
 ## My process
