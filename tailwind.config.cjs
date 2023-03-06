@@ -10,6 +10,9 @@ module.exports = {
       "space-grotesk": ["Space Grotesk", "sans-serif"],
     },
     extend: {
+      screens: {
+        "xs": "475px",
+      },
     },
   },
   future: {
