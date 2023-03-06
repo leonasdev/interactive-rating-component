@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://rating.leonas.dev/">View Demo</a>
     ·
     <a href="" target="_blank">Solution</a>
   </p>
@@ -25,7 +25,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Links
 - Solution URL: []()
-- Live Site URL: []()
+- Live Site URL: [https://rating.leonas.dev/](https://rating.leonas.dev/)
 
 ## My process
 
